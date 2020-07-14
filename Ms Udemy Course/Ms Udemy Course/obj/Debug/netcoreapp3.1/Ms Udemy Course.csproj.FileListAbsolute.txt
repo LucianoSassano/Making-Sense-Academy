@@ -1,0 +1,13 @@
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.exe
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.deps.json
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.runtimeconfig.json
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.runtimeconfig.dev.json
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.dll
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\bin\Debug\netcoreapp3.1\Ms Udemy Course.pdb
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.csprojAssemblyReference.cache
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.AssemblyInfoInputs.cache
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.AssemblyInfo.cs
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.csproj.CoreCompileInputs.cache
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.dll
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.pdb
+C:\Users\54223\Desktop\Making Sense Udemy\Ms Udemy Course\Ms Udemy Course\obj\Debug\netcoreapp3.1\Ms Udemy Course.genruntimeconfig.cache
